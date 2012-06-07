@@ -1,0 +1,3 @@
+class FooSpec < MiniSpec
+
+end
